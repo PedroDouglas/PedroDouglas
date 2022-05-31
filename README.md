@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Pedro Douglas. 👋
 
-- 🌱 Estudando: Data Science
 - 📫 Contate no meu e-mail : pdouglas008@gmail.com
 
 
